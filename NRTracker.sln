@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NRTracker", "NRTracker\NRTracker.csproj", "{6428E16E-102C-4D2E-A450-D9892587C263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NTrackerTest", "NTrackerTest\NTrackerTest.csproj", "{72FBEEAA-D8C2-4CA4-A709-5EC7323CA507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRTrackerDomain", "NRTrackerDomain\NRTrackerDomain.csproj", "{CBEEAFBB-1B39-4A04-85EC-CBC980271D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6428E16E-102C-4D2E-A450-D9892587C263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6428E16E-102C-4D2E-A450-D9892587C263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6428E16E-102C-4D2E-A450-D9892587C263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6428E16E-102C-4D2E-A450-D9892587C263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FBEEAA-D8C2-4CA4-A709-5EC7323CA507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FBEEAA-D8C2-4CA4-A709-5EC7323CA507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FBEEAA-D8C2-4CA4-A709-5EC7323CA507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FBEEAA-D8C2-4CA4-A709-5EC7323CA507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEEAFBB-1B39-4A04-85EC-CBC980271D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEEAFBB-1B39-4A04-85EC-CBC980271D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEEAFBB-1B39-4A04-85EC-CBC980271D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEEAFBB-1B39-4A04-85EC-CBC980271D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
